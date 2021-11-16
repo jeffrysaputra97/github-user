@@ -1,7 +1,8 @@
-package com.jeffry.dicoding.githubuser
+package com.jeffry.dicoding.githubuser.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.jeffry.dicoding.githubuser.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

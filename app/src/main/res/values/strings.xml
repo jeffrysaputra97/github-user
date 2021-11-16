@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">GitHub User</string>
+
+    <!-- User Detail Activity -->
+    <string name="user_detail_activity_avatar_content_description">User Avatar</string>
+    <!-- /User Detail Activity -->
 </resources>
